@@ -1,0 +1,11 @@
+com/microsoft/azure/simpletodo/repository/TodoListRepository.class
+com/microsoft/azure/simpletodo/web/TodoListsController.class
+com/microsoft/azure/simpletodo/configuration/RFC3339DateFormat.class
+com/microsoft/azure/simpletodo/SimpleTodoApplication.class
+com/microsoft/azure/simpletodo/repository/TodoItemRepository.class
+com/microsoft/azure/simpletodo/model/TodoList.class
+com/microsoft/azure/simpletodo/configuration/WebConfiguration$1.class
+com/microsoft/azure/simpletodo/configuration/OpenApiConfiguration.class
+com/microsoft/azure/simpletodo/model/TodoState.class
+com/microsoft/azure/simpletodo/model/TodoItem.class
+com/microsoft/azure/simpletodo/configuration/WebConfiguration.class

@@ -1,0 +1,10 @@
+/Users/albertozimek/code/ASA-Samples-Restful-Application/src/main/java/com/microsoft/azure/simpletodo/configuration/RFC3339DateFormat.java
+/Users/albertozimek/code/ASA-Samples-Restful-Application/src/main/java/com/microsoft/azure/simpletodo/configuration/WebConfiguration.java
+/Users/albertozimek/code/ASA-Samples-Restful-Application/src/main/java/com/microsoft/azure/simpletodo/repository/TodoItemRepository.java
+/Users/albertozimek/code/ASA-Samples-Restful-Application/src/main/java/com/microsoft/azure/simpletodo/model/TodoState.java
+/Users/albertozimek/code/ASA-Samples-Restful-Application/src/main/java/com/microsoft/azure/simpletodo/model/TodoList.java
+/Users/albertozimek/code/ASA-Samples-Restful-Application/src/main/java/com/microsoft/azure/simpletodo/model/TodoItem.java
+/Users/albertozimek/code/ASA-Samples-Restful-Application/src/main/java/com/microsoft/azure/simpletodo/repository/TodoListRepository.java
+/Users/albertozimek/code/ASA-Samples-Restful-Application/src/main/java/com/microsoft/azure/simpletodo/configuration/OpenApiConfiguration.java
+/Users/albertozimek/code/ASA-Samples-Restful-Application/src/main/java/com/microsoft/azure/simpletodo/SimpleTodoApplication.java
+/Users/albertozimek/code/ASA-Samples-Restful-Application/src/main/java/com/microsoft/azure/simpletodo/web/TodoListsController.java
